@@ -2,7 +2,7 @@
 #ArshGoyal  #6Companies30Days #ReviseWithArsh  
 
 
-[#ReviseWithArsh  #6Companies30Days #ArtshGoyal](url) 
+[#ReviseWithArsh  #6Companies30Days #ArtshGoyal](https://github.com/bitu0230/6Companies30Days) 
 
 This is a repo that will contain the solution of the 6Companies30days challenge initiated Arsh goyal . so I will be posting answers in my repo by the name of the companies so feel free to correct any mistakes I made and if you have better approach by posting in in the respective repo by your name and inside your name .
 
